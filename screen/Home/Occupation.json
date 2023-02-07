@@ -1,0 +1,1190 @@
+{
+  "Occupations": [
+    {
+      "id": 111,
+      "Name": "Managers",
+      "suitability": 50,
+      "good": 50,
+      "notgood": 50,
+      "trycareer": [
+        {
+          "id": 1,
+          "Name": "Chief executives, senior officials and legislators",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 101,
+              "Name": "Legislators and senior officials",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 102,
+              "Name": "Managing directors and chief executives",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "Name": "Administrative and commercial managers",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 201,
+              "Name": "Business services and administration managers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 202,
+              "Name": "Sales, marketing and development managers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "Name": "Production and specialized services managers",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 301,
+              "Name": "Production managers in agriculture, forestry and fisheries",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 302,
+              "Name": "Manufacturing, mining, construction, and distribution managers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 303,
+              "Name": "Information and communications technology service managers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 304,
+              "Name": "Professional services managers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "Name": "Hospitality, retail and other services managers",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 401,
+              "Name": "Hotel and restaurant managers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 402,
+              "Name": "Retail and wholesale trade managers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 403,
+              "Name": "Other services managers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "Name": "Professional",
+      "suitability": 50,
+      "good": 50,
+      "notgood": 50,
+      "trycareer": [
+        {
+          "id": 5,
+          "Name": "Science and engineering professionals",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50
+        },
+        {
+          "id": 6,
+          "Name": "Health professionals",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50
+        },
+        {
+          "id": 7,
+          "Name": "Teaching professionals",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50
+        },
+        {
+          "id": 8,
+          "Name": "Business and administration professionals",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50
+        },
+        {
+          "id": 9,
+          "Name": "Information and communications technology professionals",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50
+        },
+        {
+          "id": 10,
+          "Name": "Legal, social and cultural professionals",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "Name": "Technicians and associate professionals",
+      "suitability": 50,
+      "good": 50,
+      "notgood": 50,
+      "trycareer": [
+        {
+          "id": 141,
+          "Name": "Science and engineering associate professionals",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 14211,
+              "Name": "Physical and engineering science technicians",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 14222,
+              "Name": "Mining, manufacturing and construction supervisors",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 14233,
+              "Name": "Process control technicians",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 14244,
+              "Name": "Life science technicians and related associate professionals",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 14255,
+              "Name": "Ship and aircraft controllers and technicians",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        },
+        {
+          "id": 142,
+          "Name": "Health associate professionals",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 1423355,
+              "Name": "Medical and pharmaceutical technicians",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 1424455,
+              "Name": "Nursing and midwifery associate professionals",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 1425588,
+              "Name": "Traditional and complementary medicine associate professionals",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 1425577,
+              "Name": "Veterinary technicians and assistants",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 1425566,
+              "Name": "Other health associate professionals",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        },
+        {
+          "id": 143,
+          "Name": "Business and administration associate professionals",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 14388,
+              "Name": "Financial and mathematical associate professionals",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 143999,
+              "Name": "Sales and purchasing agents and brokers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 143888,
+              "Name": "Business services agents",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 1438899,
+              "Name": "Administrative and specialized secretaries",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 14388777,
+              "Name": "Regulatory government associate professionals",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        },
+        {
+          "id": 144,
+          "Name": "Legal, social, cultural and related associate professionals",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 144010,
+              "Name": "Legal, social and religious associate professionals",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 144020,
+              "Name": "Sports and fitness workers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 144030,
+              "Name": "Artistic, cultural and culinary associate professionals",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        },
+        {
+          "id": 139,
+          "Name": "Information and communications technicians",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 139999,
+              "Name": "Information and communications technology operations and user support technicians",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 139888,
+              "Name": "Telecommunications and broadcasting technicians",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "Name": "Clerical support workers",
+      "suitability": 50,
+      "good": 50,
+      "notgood": 50,
+      "trycareer": [
+        {
+          "id": 531,
+          "Name": "General and keyboard clerks",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 5311772,
+              "Name": "General office clerks",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 5311777,
+              "Name": "Secretaries (general)",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 531122,
+              "Name": "Keyboard operators",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        },
+        {
+          "id": 532,
+          "Name": "Numerical and material recording clerks",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 5328888,
+              "Name": " Client information workers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 532888898,
+              "Name": "Tellers, money collectors and related clerks",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        },
+        {
+          "id": 533,
+          "Name": "Customer services clerks",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 533741,
+              "Name": "Numerical clerks",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 533852,
+              "Name": "Material-recording and transport clerks",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        },
+        {
+          "id": 534,
+          "Name": "Other clerical support workers",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 534852,
+              "Name": "Other clerical support workers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "Name": "Service and sales workers",
+      "suitability": 50,
+      "good": 50,
+      "notgood": 50,
+      "trycareer": [
+        {
+          "id": 5485534321,
+          "Name": "Personal service workers",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 548553432155775,
+              "Name": "Travel attendants, conductors and guides",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 5485534472155775,
+              "Name": "Cooks",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 5485547717132155775,
+              "Name": "Waiters and bartenders",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 54855317712155775,
+              "Name": "Hairdressers, beauticians and related workers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 54855992282155775,
+              "Name": "Building and housekeeping supervisors",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 5485534321773775,
+              "Name": "Other personal services workers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        },
+        {
+          "id": 54355521,
+          "Name": "Sales workers",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 54988945244,
+              "Name": "Shop salespersons",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 54989664544521,
+              "Name": "Street and market salespersons",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 549888884454441,
+              "Name": "Other sales workers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 549125884451527,
+              "Name": "Cashiers and ticket clerks",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        },
+        {
+          "id": 54321555,
+          "Name": "Personal care workers",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 543215428855,
+              "Name": "Child care workers and teachers' aides",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 5432188877555,
+              "Name": "Personal care workers in health services",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        },
+        {
+          "id": 547788321,
+          "Name": "Protective services workers",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 5489897788321,
+              "Name": "Protective services workers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "Name": "Skilled agricultural, forestry and fishery workers",
+      "suitability": 50,
+      "good": 50,
+      "notgood": 50,
+      "trycareer": [
+        {
+          "id": 45218881211,
+          "Name": "Market-oriented skilled agricultural workers",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 452188812111222,
+              "Name": "Market gardeners and crop growers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 452188812118882,
+              "Name": "Animal producers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 452188819999222,
+              "Name": "Mixed crop and animal producers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        },
+        {
+          "id": 452155551211,
+          "Name": "Market-oriented skilled forestry, fishery and hunting workers",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 458881155551211,
+              "Name": "Forestry and related workers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 458881155544411,
+              "Name": "Fishery workers, hunters and trappers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        },
+        {
+          "id": 45219991211,
+          "Name": "Subsistence farmers, fishers, hunters and gatherers",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 45219991211444411,
+              "Name": "Subsistence crop farmers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 45219991211444422,
+              "Name": "Subsistence livestock farmers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 45219991211444433,
+              "Name": "Subsistence mixed crop and livestock farmers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 452199912114444444,
+              "Name": "Subsistence fishers, hunters, trappers and gatherers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "Name": "Plant and machine operators, and assemblers",
+      "suitability": 50,
+      "good": 50,
+      "notgood": 50,
+      "trycareer": [
+        {
+          "id": 39111,
+          "Name": "Stationary plant and machine operators",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 391111,
+              "Name": "Metal processing and finishing plant operators",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 391112,
+              "Name": "Mining and mineral processing plant operators",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 391113,
+              "Name": "Chemical and photographic products plant and machine operators",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 391114,
+              "Name": "Rubber, plastic and paper products machine operators",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 391115,
+              "Name": "Textile, fur and leather products machine operators",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 391116,
+              "Name": " Food and related products machine operators",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 391117,
+              "Name": "Wood processing and papermaking plant operators",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 391118,
+              "Name": "Other stationary plant and machine operators",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        },
+        {
+          "id": 39222,
+          "Name": "Assemblers",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 3922211,
+              "Name": "Assemblers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        },
+        {
+          "id": 39333,
+          "Name": "Drivers and mobile plant operators",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 393331,
+              "Name": "Locomotive engine drivers and related workers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 393332,
+              "Name": "Car, van and motorcycle drivers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 393333,
+              "Name": "Heavy truck and bus drivers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 393334,
+              "Name": "Ships' deck crews and related workers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 393335,
+              "Name": "Mobile plant operators",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "Name": "Craft related trades workers",
+      "suitability": 50,
+      "good": 50,
+      "notgood": 50,
+      "trycareer": [
+        {
+          "id": 811,
+          "Name": "Building and related trades workers, excluding electricians",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 8111,
+              "Name": "Building frame and related trades workers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 8112,
+              "Name": "Building finishers and related trades workers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 8113,
+              "Name": "Painters, building structure cleaners and related trades workers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        },
+        {
+          "id": 812,
+          "Name": "Metal, machinery and related trades workers",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 8121,
+              "Name": "Sheet and structural metal workers, moulders and welders, and related workers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 8122,
+              "Name": "Blacksmiths, toolmakers and related trades workers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 8123,
+              "Name": "Machinery mechanics and repairers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        },
+        {
+          "id": 813,
+          "Name": "Handicraft and printing workers",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 8131,
+              "Name": "Handicraft workers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 8132,
+              "Name": "Printing trades workers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        },
+        {
+          "id": 814,
+          "Name": "Food processing, wood working, garment and other craft and related trades workers",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 8141,
+              "Name": "Electrical equipment installers and repairers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 8142,
+              "Name": "Electronics and telecommunications installers and repairers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        },
+        {
+          "id": 815,
+          "Name": "Electrical and electronic trades workers",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 8151,
+              "Name": "Food processing and related trades workers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 8152,
+              "Name": "Wood treaters, cabinet-makers and related trades workers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 8153,
+              "Name": "Other craft and related workers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 8154,
+              "Name": "Garment and related trades workers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "Name": "Elementary occupations",
+      "suitability": 50,
+      "good": 50,
+      "notgood": 50,
+      "trycareer": [
+        {
+          "id": 951,
+          "Name": "Cleaners and helpers",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 9511,
+              "Name": "Domestic, hotel and office cleaners and helpers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 9512,
+              "Name": "Vehicle, window, laundry and other hand cleaning workers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        },
+        {
+          "id": 952,
+          "Name": "Agricultural, forestry and fishery labourers",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 9521,
+              "Name": "Agricultural, forestry and fishery labourers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        },
+        {
+          "id": 953,
+          "Name": "Agricultural, forestry and fishery labourers",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 9531,
+              "Name": "Mining and construction labourers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 9532,
+              "Name": "Manufacturing labourers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 9533,
+              "Name": "Transport and storage labourers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        },
+        {
+          "id": 954,
+          "Name": "Food preparation assistants",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 9541,
+              "Name": "Food preparation assistants",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        },
+        {
+          "id": 955,
+          "Name": "Street and related sales and service workers",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 9551,
+              "Name": "Street and related service workers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 9552,
+              "Name": "Street vendors (excluding food)",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        },
+        {
+          "id": 956,
+          "Name": "Street and related sales and service workers",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 9561,
+              "Name": "Refuse workers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            },
+            {
+              "id": 9562,
+              "Name": "Other elementary workers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "Name": "Armed forces occupations",
+      "suitability": 50,
+      "good": 50,
+      "notgood": 50,
+      "trycareer": [
+        {
+          "id": 721,
+          "Name": "Commissioned armed forces officers",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 7211,
+              "Name": "Commissioned armed forces officers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        },
+        {
+          "id": 722,
+          "Name": "Non-commissioned armed forces officers",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 7222,
+              "Name": "Non-commissioned armed forces officers",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        },
+        {
+          "id": 723,
+          "Name": "Armed forces occupations, other ranks",
+          "suitability": 50,
+          "good": 50,
+          "notgood": 50,
+          "trycareer": [
+            {
+              "id": 7233,
+              "Name": "Armed forces occupations, other ranks",
+              "suitability": 50,
+              "good": 50,
+              "notgood": 50
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
